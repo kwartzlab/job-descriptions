@@ -3,6 +3,7 @@ Best Practices: Transitioning to a New Treasurer
 
 Things the new treasurer will need:
 
+* Added to BoD github group
 * A windows computer or VM 9with Windows 7 sp2 or later)
 * Quickbooks license (purchased through TechSoup)
 * Access to the Kwartzlab Dropbox folder (where accounting records & quickbook company file lives)
