@@ -34,7 +34,8 @@ A paper copy of this report should be printed off, and filed with account statem
     + AR Aging for current day
 * Sanitize AR Aging
 * Create Monthly Financial Report. Create a PDF with the following
-    + Income & Expense 
+    + Income & Expense (All accounts)
+    + Operating Income & Expense
     + Balance Sheet
     + TD Reconciliation Summary
     + PayPayl Reconciliation Summary
