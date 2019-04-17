@@ -1,3 +1,5 @@
+DEPRECATED - up-to-date version is available in the Board Transition Document in the Kwartzlab google drive
+
 job-descriptions
 ================
 
